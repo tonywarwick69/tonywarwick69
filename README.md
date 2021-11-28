@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tonywarwick69
 - 👀 I’m interested in software, website, editing videos and modding games :v
-- 🌱 I’m currently learning software engineer like Java, C++, HTML, C#
+- 🌱 I’m currently software engineer in like Java, C++, HTML, C#
 - 💞️ I’m currently freelancer 
 - 📫 How to reach me contact me through email: duc.khang165@gmail.com
 
