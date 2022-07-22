@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tonywarwick69
+- 👋 Hi, I’m Khang
 - 👀 I’m interested in software, website, editing videos and modding games :v
 - 🌱 I’m currently software engineer in like Java, C++, HTML, C#
 - 💞️ I’m currently freelancer 
