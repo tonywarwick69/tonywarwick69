@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khang
 - 👀 I’m interested in software, website, editing videos and modding games :v
-- 🌱 I’m currently software engineer in like Java, C++, HTML, C#
+- 🌱 I’m currently software engineer in Java,JavaScript, C, NodeJS, AWS, Python, ReactJS,React native
 - 💞️ I’m currently freelancer 
 - 📫 How to reach me contact me through email: duc.khang165@gmail.com
 
